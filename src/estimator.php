@@ -1,5 +1,7 @@
 <?php
 
+echo '\n';
+
 //Challenge One
 
 
@@ -224,5 +226,6 @@ covid19ImpactEstimator($datac);
 covid19ImpactEstimator($datad);
 
 echo '<pre>';
+echo '\n';
 
 ?>
